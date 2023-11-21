@@ -1,0 +1,18 @@
+{
+  "name": "ws-canvas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nikeedev",
+    "playlib"
+  ],
+  "author": "nikeedev",
+  "license": "MIT",
+  "dependencies": {
+    "playlib": "^0.6.11"
+  }
+}
